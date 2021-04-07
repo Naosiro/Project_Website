@@ -1,0 +1,50 @@
+[
+  { "id": 1,
+    "titulo": "Capitulo 1",
+    "titulo_nombre": "El Mandaloriano",
+    "descripcion": "Un cazarrecompensas mandaloriano rastrea un objetivo para un cliente misterioso que paga bien.",
+    "imagen_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3BBBA3F225C050CACCDEECE1E66AD004EF1B6ED4573798A327923DD5BAA4F31D/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals"
+  },
+  { "id": 2,
+    "titulo": "Capitulo 2",
+    "titulo_nombre": "El Niño",
+    "descripcion": "Tras rastrear a una presa valosa, el Mandaloriano debe enfrentarse con unos ladrones.",
+    "imagen_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D7FB6A3FFB3F994EB898BCD49988369C5C40DEFEE9C7108D93A0EB6B27F6EB3C/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals"
+  },
+  { "id": 3,
+    "titulo": "Capitulo 3",
+    "titulo_nombre": "El Pecado",
+    "descripcion": "El golpeado Mandaloriano regresa por la recompensa, pero algunos negocios no terminan bien.",
+    "imagen_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/948067C69589504D08E59736EE511A8325E9699246F186FF76E1163C2FF31357/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals"
+  },
+  { "id": 4,
+    "titulo": "Capitulo 4",
+    "titulo_nombre": "Santuario",
+    "descripcion": "El Mandaloriano se une con una exsoldado para proteger a una aldea agrícola de saqueadores.",
+    "imagen_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D12227DC3A1997EB66FE9850516C3103A9560BE0BCF966D42DC1F5BE576DE724/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals"
+  },
+  { "id": 5,
+    "titulo": "Capitulo 5",
+    "titulo_nombre": "El Pistolero",
+    "descripcion": "En un planeta familiar desierto, el Mandaloriano ayuda a un caza recompensas novato en una misión.",
+    "imagen_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B644A41E4B7D8A0824580FB1B3629A5AA0A841AA77E9AB01CD28D49392E606F2/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals"
+  },
+  { "id": 6,
+    "titulo": "Capitulo 6",
+    "titulo_nombre": "El Prisionero",
+    "descripcion": "El Mandaloriano es parte de una tripulación de mercenarios que sacan a un convicto de una prisión.",
+    "imagen_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8815836C780669336F2D08533E48D4DA6A40FE63C7BDEF1FA1420380F36269F0/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals"
+  },
+  { "id": 7,
+    "titulo": "Capitulo 7",
+    "titulo_nombre": "Ajuste de Cuentas",
+    "descripcion": "Un viejo contacto extiende una invitación para que el Mandaloriano haga las paces con sus enemigos.",
+    "imagen_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CE3654AA673C28CF503E83F6A686550C7F6A49B99F8AD706A86D73D065081529/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals"
+  },
+  { "id": 8,
+    "titulo": "Capitulo 8",
+    "titulo_nombre": "Redencion",
+    "descripcion": "El Mandaloriano y sus aliados conocen a su verdadero enemigo, quien ya sabe mucho de ellos.",
+    "imagen_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9B41A8A85B28FD7ECF05A2E3E93421EBC7EA9E45830BA80C4B116C8B1ED2F867/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals"
+  }
+]
